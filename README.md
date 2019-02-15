@@ -1,2 +1,2 @@
 # LearnScala
-Learn Scala
+This the project that I used to learn Scala.
